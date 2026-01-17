@@ -15,7 +15,7 @@
 ![Overview](https://github.com/PawanRathoreTech/Nike-Shoes-Analysis-Dhashboard/blob/main/Screenshot%202026-01-17%20231800.png)
 
 ### Insight 2
-![Insight]
+![Insight](https://github.com/PawanRathoreTech/Nike-Shoes-Analysis-Dhashboard/blob/main/Screenshot%202026-01-17%20231817.png)
 
 ### Performance 2
 ![Performance
