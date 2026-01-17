@@ -9,7 +9,7 @@
 ![Insight](https://github.com/PawanRathoreTech/Nike-Shoes-Analysis-Dhashboard/blob/main/Screenshot%202026-01-17%20231642.png)
 
 ### Performance
-![Performance](Screenshot 2026-01-17 231714.png)
+![Performance](https://github.com/PawanRathoreTech/Nike-Shoes-Analysis-Dhashboard/blob/main/Screenshot%202026-01-17%20231714.png)
 
 
 ## 📊 Project Overview
