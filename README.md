@@ -86,6 +86,6 @@ Aspiring Data Analyst | Power BI | SQL | DAX
 
 ---
 
-## 🔗 Connect With Me
+### 🔗 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/pawan-rathore-b32b08383/
