@@ -1,4 +1,4 @@
-# Nike-Shoes-Analysis-Dashboard-Power_Bi
+# Nike-Shoes-Analysis-Dashboard
 
 ## 📸 Dashboard Preview
 
